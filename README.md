@@ -43,3 +43,5 @@ Solve 200+ problems by July 2026 and land a software engineering role by Decembe
 - 💼 [LinkedIn](https://linkedin.com/in/annasha-bhattacharya-82634a29a)
 - 🧠 [LeetCode](https://leetcode.com/YOUR_USERNAME)
 - ⭐ [GFG](https://geeksforgeeks.org/user/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/annasha-bhattacharya-82634a29a)
+[LeetCode](https://leetcode.com/u/phoenixcomp/)
