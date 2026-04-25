@@ -42,3 +42,6 @@
 //      printsum(1,5 , 0);   
 //     }
 // }
+
+
+// // print factorial of  a number
